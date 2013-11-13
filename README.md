@@ -1,1 +1,151 @@
-<div>CNDBZero-----MangosZero 汉化数据</div><div>========</div><div>这些内容都不是本人汉化的，本人只是将各大神的汉化结果整合了一下，希望大家喜欢</div><div><br></div><div>目前整合了的汉化源为</div><div>1、https://code.google.com/p/cndb/</div><div>2、http://www.mangoscn.com/forum.ph ... %89%E5%8C%96%2B1.12 by vesoo</div><div>3、http://www.mangoscn.com/forum.ph ... &amp;extra=page%3D1 by xxx4311119</div><div>4、scriptdev2 by 夷希微</div><div><br></div><div>其中1、3为3.3.5的汉化数据，不知道与1.12的差别有多大，目前和几个朋友自己在玩，没发现有太大问题</div><div>本次汉化都是以mangoszero 0.18.0为基准</div><div>目前的汉化进度如下：</div><div>locales_creature/creature_template &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;9088/9090 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 剩下的2个为机器人型号，不需要汉化</div><div>locales_gameobject/gameobject_template &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;10457/10575 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div><div>locales_gossip_menu_option/gossip_menu_option &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 558/683</div><div>locales_item/item_template &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;14393/14398 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 剩下不多，希望有大神汉化，楼主英语不够。。</div><div>locales_npc_text/npc_text &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4460/4482</div><div>locales_page_text/page_text &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1398/1431</div><div>locales_quest/quest_template &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4244/4244 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 并非完全汉化，其中Details汉化率为3590/3678 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div><div>script_texts &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;272/1321 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;感谢夷希微的手动汉化!</div><div><br></div><div>上述汉化数据都是以部分汉化为准，即同一表中可能只有一个字段汉化了。比如locales_quest可能只有Title汉化了，但是这种情况比较少，大家可导入数据库，自行查询。</div><div><br></div><div>关于整合的方法：https://github.com/FlyingHazi/CN ... /hazi/CNDBZero.java</div><div>代码写得不好，大家多包涵。。。。</div><div><br></div><div>若大家有新的汉化源，希望大家能拿出来共享，谢谢！</div>
+<div>
+    CNDBZero-----MangosZero 汉化数据
+</div>
+<div>
+    ========
+</div>
+<div>
+    这些内容都不是本人汉化的，本人只是将各大神的汉化结果整合了一下，希望大家喜欢
+</div>
+<div>
+    <br>
+</div>
+<div>
+    目前整合了的汉化源为
+</div>
+<div>
+    1、https://code.google.com/p/cndb/
+</div>
+<div>
+    2、http://www.mangoscn.com/forum.ph ... %89%E5%8C%96%2B1.12 by vesoo
+</div>
+<div>
+    3、http://www.mangoscn.com/forum.ph ... &amp;extra=page%3D1 by xxx4311119
+</div>
+<div>
+    4、scriptdev2 by 夷希微
+</div>
+<div>
+    <br>
+</div>
+<div>
+    其中1、3为3.3.5的汉化数据，不知道与1.12的差别有多大，目前和几个朋友自己在玩，没发现有太大问题
+</div>
+<div>
+    本次汉化都是以mangoszero 0.18.0为基准
+</div>
+<div>
+    目前的汉化进度如下：
+</div>
+<table>
+    <thead>
+        <tr>
+            <th>
+                汉化表/原表
+            </th>
+            <th>
+                汉化率
+            </th>>
+            <th>
+                说明
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                locales_creature/creature_template
+            </td>
+            <td>
+                9088/9090
+            </td>
+            <td>
+                剩下的2个为机器人型号，不需要汉化
+            </td>
+        </tr>
+        <tr>
+            <td>
+                locales_gameobject/gameobject_template
+            </td>
+            <td>
+                10457/10575
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                locales_item/item_template
+            </td>
+            <td>
+                14397/14398
+            </td>
+            <td>
+                剩下一个为机器型号，不需要翻译
+            </td>
+        </tr>
+        <tr>
+            <td>
+                locales_npc_text/npc_text
+            </td>
+            <td>
+                4460/4482
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                locales_page_text/page_text
+            </td>
+            <td>
+                1398/1431
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                locales_quest/quest_template
+            </td>
+            <td>
+                4244/4244
+            </td>
+            <td>
+                并非完全汉化，其中Details汉化率为3590/3678
+            </td>
+        </tr>
+        <tr>
+            <td>
+                script_texts/script_texts
+            </td>
+            <td>
+                272/1321
+            </td>
+            <td>
+                感谢夷希微的手动汉化!
+            </td>
+        </tr>
+    </tbody>
+</table>
+<div>
+    <br>
+</div>
+<div>
+    上述汉化数据都是以部分汉化为准，即同一表中可能只有一个字段汉化了。比如locales_quest可能只有Title汉化了，但是这种情况比较少，大家可导入数据库，自行查询。
+</div>
+<div>
+    <br>
+</div>
+<div>
+    关于整合的方法：https://github.com/FlyingHazi/CN ... /hazi/CNDBZero.java
+</div>
+<div>
+    代码写得不好，大家多包涵。。。。
+</div>
+<div>
+    <br>
+</div>
+<div>
+    若大家有新的汉化源，希望大家能拿出来共享，谢谢！
+</div>

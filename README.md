@@ -138,7 +138,7 @@
     <br>
 </div>
 <div>
-    关于整合的方法：https://github.com/FlyingHazi/CN ... /hazi/CNDBZero.java
+    关于整合的方法：https://github.com/FlyingHazi/CNDBTools/blob/master/src/com/gmtsui/hazi/CNDBZero.java
 </div>
 <div>
     代码写得不好，大家多包涵。。。。

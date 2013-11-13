@@ -14391,3 +14391,7 @@ INSERT INTO `locales_item` (`entry`,`name_loc4`,`description_loc4`) VALUES (1800
 INSERT INTO `locales_item` (`entry`,`name_loc4`,`description_loc4`) VALUES (18001,'大块的硬面包',NULL);
 INSERT INTO `locales_item` (`entry`,`name_loc4`,`description_loc4`) VALUES (12400,'法官裁决槌',NULL);
 INSERT INTO `locales_item` (`entry`,`name_loc4`,`description_loc4`) VALUES (19760,'霸主拥抱',NULL);
+INSERT INTO `locales_item` (`entry`,`name_loc4`,`description_loc4`) VALUES (12325,'原始猎豹缰绳','教你学会召唤这种坐骑。');
+INSERT INTO `locales_item` (`entry`,`name_loc4`,`description_loc4`) VALUES (12326,'茶色刃齿豹缰绳','教你学会召唤这种坐骑。');
+INSERT INTO `locales_item` (`entry`,`name_loc4`,`description_loc4`) VALUES (12327,'金色猎豹缰绳','教你学会召唤这种坐骑。');
+INSERT INTO `locales_item` (`entry`,`name_loc4`,`description_loc4`) VALUES (18768,'迅捷晨刃豹缰绳','教你学会召唤这种坐骑。');
